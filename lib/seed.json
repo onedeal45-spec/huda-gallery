@@ -1,0 +1,293 @@
+{
+ "categories": [
+  {
+   "name": "Calligraphy",
+   "description": "Sacred words and divine names in contemporary calligraphic compositions."
+  },
+  {
+   "name": "Landscapes",
+   "description": "Deserts, waters and cities seen through colour and light."
+  },
+  {
+   "name": "Abstract",
+   "description": "Texture, movement and material explored beyond the figure."
+  },
+  {
+   "name": "Modern Art",
+   "description": "Contemporary pieces blending form, colour and gold."
+  },
+  {
+   "name": "Custom Art",
+   "description": "Commissioned works created for a person, a space or a moment."
+  }
+ ],
+ "collections": [
+  {
+   "name": "Divine Words",
+   "description": "Names and verses rendered as light, gold and colour."
+  },
+  {
+   "name": "Sacred Places",
+   "description": "The holy sanctuaries, painted with reverence."
+  },
+  {
+   "name": "Gold & Texture",
+   "description": "Works built from gold leaf, relief and layered surfaces."
+  },
+  {
+   "name": "Nature & Light",
+   "description": "Quiet horizons — desert, water and the city at dusk."
+  }
+ ],
+ "hero_code": "HUDA-008",
+ "artworks": [
+  {
+   "file": "huda-01.jpg",
+   "title": "Allah in Gold Leaf",
+   "category": "Calligraphy",
+   "collections": [
+    "Divine Words"
+   ],
+   "featured": true,
+   "year": null,
+   "description": "The name of Allah laid in textured gold leaf over a warm crimson and amber ground.",
+   "code": "HUDA-001",
+   "sort": 1
+  },
+  {
+   "file": "huda-02.jpg",
+   "title": "Around the Kaaba",
+   "category": "Calligraphy",
+   "collections": [
+    "Sacred Places"
+   ],
+   "featured": true,
+   "year": null,
+   "description": "The Kaaba at the centre of concentric rings of hand-lettered script, painted in rust red over a gold ground.",
+   "code": "HUDA-002",
+   "sort": 2
+  },
+  {
+   "file": "huda-03.jpg",
+   "title": "Night Lily",
+   "category": "Landscapes",
+   "collections": [
+    "Nature & Light"
+   ],
+   "featured": false,
+   "year": null,
+   "description": "A single white water lily resting on still, deep-blue water beneath a luminous night sky. Shown framed.",
+   "code": "HUDA-003",
+   "sort": 3
+  },
+  {
+   "file": "huda-04.jpg",
+   "title": "Caravan at Noon",
+   "category": "Landscapes",
+   "collections": [
+    "Nature & Light"
+   ],
+   "featured": true,
+   "year": null,
+   "description": "A camel caravan crossing a golden ridge of dunes, with desert grasses and trees in the foreground.",
+   "code": "HUDA-004",
+   "sort": 4
+  },
+  {
+   "file": "huda-05.jpg",
+   "title": "Ya Hayyu Ya Qayyum",
+   "category": "Calligraphy",
+   "collections": [
+    "Divine Words"
+   ],
+   "featured": true,
+   "year": null,
+   "description": "A round composition of Ya Hayyu Ya Qayyum in ivory script over deep red, framed by a ring of layered lettering and a gold floral motif.",
+   "code": "HUDA-005",
+   "sort": 5
+  },
+  {
+   "file": "huda-06.jpg",
+   "title": "Crimson Blooms",
+   "category": "Modern Art",
+   "collections": [
+    "Gold & Texture"
+   ],
+   "featured": false,
+   "year": null,
+   "description": "Two glossy crimson flowers outlined in raised gold, on an oval canvas with a weathered sage-green ground.",
+   "code": "HUDA-006",
+   "sort": 6
+  },
+  {
+   "file": "huda-07.jpg",
+   "title": "The Green Dome",
+   "category": "Calligraphy",
+   "collections": [
+    "Sacred Places"
+   ],
+   "featured": true,
+   "year": null,
+   "description": "The Green Dome and minarets of Masjid an-Nabawi beneath the blessed name, painted over a gold ground.",
+   "code": "HUDA-007",
+   "sort": 7
+  },
+  {
+   "file": "huda-08.jpg",
+   "title": "Azure Script",
+   "category": "Calligraphy",
+   "collections": [
+    "Gold & Texture",
+    "Divine Words"
+   ],
+   "featured": true,
+   "year": 2025,
+   "description": "Flowing silver-edged calligraphy rising through a crackled azure field, bordered by a gold-leaf panel and a hand-painted vine.",
+   "code": "HUDA-008",
+   "sort": 8
+  },
+  {
+   "file": "huda-09.jpg",
+   "title": "Rabbij'alni — Triptych",
+   "category": "Calligraphy",
+   "collections": [
+    "Divine Words"
+   ],
+   "featured": true,
+   "year": null,
+   "description": "A three-panel work centred on a monumental gold-leaf Rabb, with the supplication lettered above and geometric borders on either side.",
+   "code": "HUDA-009",
+   "sort": 9
+  },
+  {
+   "file": "huda-10.jpg",
+   "title": "Wallahu Akbar",
+   "category": "Calligraphy",
+   "collections": [
+    "Divine Words"
+   ],
+   "featured": false,
+   "year": null,
+   "description": "Wallahu Akbar in textured gold and silver over a smouldering black and red ground scattered with gold.",
+   "code": "HUDA-010",
+   "sort": 10
+  },
+  {
+   "file": "huda-11.jpg",
+   "title": "Kun Fayakun — Geometry",
+   "category": "Calligraphy",
+   "collections": [
+    "Divine Words"
+   ],
+   "featured": false,
+   "year": null,
+   "description": "Kun Fayakun lettered at the heart of a bold geometric composition in gold, green and red.",
+   "code": "HUDA-011",
+   "sort": 11
+  },
+  {
+   "file": "huda-12.jpg",
+   "title": "Marble & Gold Wall Panels",
+   "category": "Abstract",
+   "collections": [
+    "Gold & Texture"
+   ],
+   "featured": false,
+   "year": null,
+   "description": "A three-panel marble-effect installation in grey, white and gold, shown installed as a feature wall.",
+   "code": "HUDA-012",
+   "sort": 12
+  },
+  {
+   "file": "huda-13.jpg",
+   "title": "Muhammad ﷺ Among Autumn Leaves",
+   "category": "Calligraphy",
+   "collections": [
+    "Divine Words"
+   ],
+   "featured": false,
+   "year": null,
+   "description": "The blessed name in dark script, surrounded by a wreath of coral and gold leaves.",
+   "code": "HUDA-013",
+   "sort": 13
+  },
+  {
+   "file": "huda-14.jpg",
+   "title": "Golden Vortex",
+   "category": "Calligraphy",
+   "collections": [
+    "Gold & Texture"
+   ],
+   "featured": true,
+   "year": null,
+   "description": "Rings of dense gold calligraphy spiralling into a dark centre, creating a sense of depth and movement.",
+   "code": "HUDA-014",
+   "sort": 14
+  },
+  {
+   "file": "huda-15.jpg",
+   "title": "City After Dusk",
+   "category": "Landscapes",
+   "collections": [
+    "Nature & Light"
+   ],
+   "featured": false,
+   "year": null,
+   "description": "A city skyline glowing against a rose and violet dusk, its lights reflected across the water.",
+   "code": "HUDA-015",
+   "sort": 15
+  },
+  {
+   "file": "huda-16.jpg",
+   "title": "Kun Fayakun — Orbit",
+   "category": "Modern Art",
+   "collections": [
+    "Divine Words"
+   ],
+   "featured": false,
+   "year": null,
+   "description": "Kun Fayakun within a silver-leaf circle, orbited by geometric half-moons on a crimson ground.",
+   "code": "HUDA-016",
+   "sort": 16
+  },
+  {
+   "file": "huda-17.jpg",
+   "title": "Walhamdulillah",
+   "category": "Calligraphy",
+   "collections": [
+    "Divine Words"
+   ],
+   "featured": false,
+   "year": null,
+   "description": "Walhamdulillah in gold and silver over a deep green-black ground layered with shadowed lettering.",
+   "code": "HUDA-017",
+   "sort": 17
+  },
+  {
+   "file": "huda-18.jpg",
+   "title": "SubhanAllah",
+   "category": "Calligraphy",
+   "collections": [
+    "Divine Words"
+   ],
+   "featured": false,
+   "year": null,
+   "description": "SubhanAllah in black and gold on a round canvas that melts from sunlit yellow into red.",
+   "code": "HUDA-018",
+   "sort": 18
+  },
+  {
+   "file": "huda-19.jpg",
+   "title": "Iyyaka Na'budu",
+   "category": "Calligraphy",
+   "collections": [
+    "Divine Words"
+   ],
+   "featured": false,
+   "year": null,
+   "description": "Iyyaka na'budu wa iyyaka nasta'in on an ivory panel framed in gold leaf, set on a textured red canvas.",
+   "code": "HUDA-019",
+   "sort": 19
+  }
+ ]
+}
